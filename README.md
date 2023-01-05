@@ -10,4 +10,8 @@ tmux-ressurect to save sessions and layouts (mostly layout savior).
 tmux-pain-control and tmux-sensible saves lots of pain with pains and
 is great for the vim friendly.
 
+You may also like my [vim configuration](https://github.com/optimizasea/vim)
+or my [neovim configuration](https://github.com/optimizasean/nvim) which is
+a bit more modern, faster, and cleaner (thanks to neovim)!
+
 Enjoy!
